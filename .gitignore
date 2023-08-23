@@ -1,0 +1,10 @@
+terraform.tfstate
+terraform.state.backup
+terraform.lock.hcl
+secret.tfvars
+jenkinsfile
+dockerfile
+picture 1.jpg
+terraform.tfstate.backup
+.terraform.lock.hcl
+backend.tf

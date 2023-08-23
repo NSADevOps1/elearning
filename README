@@ -1,0 +1,13 @@
+Creating a platform for an e-learning company
+The company the wants to take advantage of a Government programme to retrain graduates into IT. 
+
+Currently they don’t have a robust platform that can take care of all the needs of their students. They want to build a more robust platform that can orchestrate their docker applications and also that can scale. 
+
+We're using Terraform to build this environment. They have containerised all their applications and all their images are stored in ECR. 
+
+We're building a code for DEV environment, TEST environment, STAGING environment and PROD Environment.
+
+The Application the ECS will orchestrate is Nginx server.
+
+Using Jenkins to build the pipeline/Jenkinsfile to deploy the code to AWS platform.  
+
